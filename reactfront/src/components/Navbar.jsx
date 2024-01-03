@@ -15,9 +15,24 @@ function Navbar() {
     document.body.classList.toggle('dark-mode');
   };
 
+  const getButtonColors = () => {
+    if (darkMode) {
+      return {
+        backgroundColorClass: 'button-dark',
+        hoverColorClass: 'button-dark:hover',
+      };
+    } else {
+      return {
+        backgroundColorClass: 'button-light',
+        hoverColorClass: 'button-light:hover',
+      };
+    }
+  };
+
+  const buttonColors = getButtonColors();
 
   return (
-    <nav className="my-3 flex flex-col md:flex-row justify-between py-5 px-4 md:px-10 rounded-lg bg-green-100" >
+    <nav className={`nav-div my-3 flex flex-col md:flex-row justify-between py-5 px-4 md:px-10 rounded-lg ${darkMode ? 'dark-mode' : ''}`} >
       <Link to="/">
         <h1 className="text-1xl font-bold">YOGA DIGITAL</h1>
       </Link>
@@ -26,7 +41,7 @@ function Navbar() {
         <li>
           <button
             onClick={() => navigate('/home')}
-            className={"bg-red-500 text-white py-2 px-4 rounded-md hover:bg-red-600 focus:outline-none focus:ring focus:border-red-300"}
+            className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
             Ver Las publicaciones
           </button>
@@ -35,7 +50,7 @@ function Navbar() {
         <li>
           <button
             onClick={() => navigate('/home')}
-            className={"bg-red-500 text-white py-2 px-4 rounded-md hover:bg-red-600 focus:outline-none focus:ring focus:border-red-300"}
+            className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
             Crear una Publicación
           </button>
