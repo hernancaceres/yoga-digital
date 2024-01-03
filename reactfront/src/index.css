@@ -1,3 +1,135 @@
+@import './colors.css';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background: var(--color-background-light);
+  color: var(--color-text-light);
+}
+
+/* Ejemplo de uso de las variables de color */
+.bg-violet-900 {
+  background-color: var(--color-primary);
+}
+
+.bg-violet-700 {
+  background-color: var(--color-primary-hover);
+}
+
+.bg-gray-900 {
+  background-color: var(--color-background-light);
+}
+
+.text-white {
+  color: var(--color-text-light);
+}
+
+body.dark-mode {
+  background: var(--color-background-dark);
+  color: var(--color-text-dark);
+}
+
+/* Colores específicos para los botones */
+.button-light {
+  background-color: var(--button-bg-light);
+  color: white;
+}
+
+.button-light:hover {
+  background-color: var(--button-bg-hover-light);
+}
+
+.button-dark {
+  background-color: var(--button-bg-dark);
+  color: rgb(7, 212, 17);
+}
+
+.button-dark:hover {
+  background-color: var(--button-bg-hover-dark);
+}
+
+/* COLORES DE TITULOS*/
+
+h1{
+  color: var(--title-color-light);
+}
+
+body.dark-mode h1{
+  color: var(--title-color-dark);
+}
+
+
+h2{
+  color: var(--title2-color-light);
+}
+
+body.dark-mode h2 {
+  color: var(--title2-color-dark);
+}
+
+
+h3{
+  color: var(--title3-color-light);
+}
+
+body.dark-mode h3 {
+  color: var(--title3-color-dark);
+}
+
+/* COLORES DE DIVS*/
+
+.nav-div {
+  background-color: var(--navdiv-bg-light);
+  color: var(--color-text-light);
+}
+
+body.dark-mode .nav-div {
+  background-color: var(--navdiv-bg-dark);
+  color: var(--color-text-dark);
+}
+
+
+.post-div {
+  background-color: var(--postdiv-bg-light);
+  color: var(--color-text-light);
+}
+
+body.dark-mode .post-div {
+  background-color: var(--postdiv-bg-dark);
+  color: var(--color-text-dark);
+}
+
+
+.login-div {
+  background-color: var(--logindiv-bg-light);
+  color: var(--color-text-light);
+}
+
+body.dark-mode .login-div {
+  background-color: var(--logindiv-bg-dark);
+  color: var(--color-text-dark);
+}
+
+
+/* Estilos Imputs */
+.input-style {
+  background-color: var(--input-bg-light);
+  color: var(--input-text-light);
+  border: 1px solid var(--input-border-light);
+}
+
+.input-style:focus {
+  border-color: var(--input-focus-light);
+}
+
+body.dark-mode .input-style {
+  background-color: var(--input-bg-dark);
+  color: var(--input-text-dark);
+  border: 1px solid var(--input-border-dark);
+}
+
+body.dark-mode .input-style:focus {
+  border-color: var(--input-focus-dark);
+}

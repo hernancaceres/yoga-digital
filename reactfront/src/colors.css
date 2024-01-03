@@ -1,0 +1,44 @@
+
+:root {
+  
+  --color-background-light: #e6eeee;  /* Gray-900 */
+  --color-text-light: #8b7c07;  /* White */
+
+  --color-background-dark: #230124;  /* Nuevo fondo para el modo oscuro */
+  --color-text-dark: rgb(169, 211, 4);  /* Nuevo color de texto para el modo oscuro */
+
+  --button-bg-light: #016326;  /* Fondo del botón en modo claro */
+  --button-bg-hover-light: #eaee0c;  /* Fondo del botón en modo claro al pasar el mouse */
+
+  --button-bg-dark: #9b0303;  /* Fondo del botón en modo oscuro */
+  --button-bg-hover-dark: #ee0c7d;  /* Fondo del botón en modo oscuro al pasar el mouse */
+
+  --title-color-light: #2b2a2a;  /* Color de texto para títulos en modo claro */
+  --title-color-dark: #ffffff;  /* Color de texto para títulos en modo oscuro */
+
+  --title2-color-light: #2b2a2a;  /* Color de texto para títulos2 en modo claro */
+  --title2-color-dark: #f00943;  /* Color de texto para títulos2 en modo oscuro */
+
+  --title3-color-light: #2b2a2a;  /* Color de texto para títulos3 en modo claro */
+  --title3-color-dark: #b806a9;  /* Color de texto para títulos3 en modo oscuro */
+
+  --navdiv-bg-light: #aed7f3; /* Fondo del div en modo claro */
+  --navdiv-bg-dark: #500245; /* Fondo del div en modo oscuro */
+
+  --postdiv-bg-light: #9fdbf3; /* Fondo del postdiv en modo claro */
+  --postdiv-bg-dark: #5e035a; /* Fondo del div en modo oscuro */
+
+  --logindiv-bg-light: #d0eaf5; /* Fondo del logindiv en modo claro */
+  --logindiv-bg-dark: #440241; /* Fondo del logindiv en modo oscuro */
+
+  --input-bg-light: #ffffff; /* Fondo del input en modo claro */
+  --input-text-light: #333333; /* Color del texto del input en modo claro */
+  --input-border-light: #cccccc; /* Color del borde del input en modo claro */
+  --input-focus-light: #4d90fe; /* Color del borde al enfocar el input en modo claro */
+
+  --input-bg-dark: #261a29; /* Fondo del input en modo oscuro */
+  --input-text-dark: #ffffff; /* Color del texto del input en modo oscuro */
+  --input-border-dark: #666666; /* Color del borde del input en modo oscuro */
+  --input-focus-dark: #00bcd4; /* Color del borde al enfocar el input en modo oscuro */
+}
+
