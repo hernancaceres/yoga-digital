@@ -2,7 +2,7 @@
 :root {
   
   --color-background-light: #e6eeee;  /* Gray-900 */
-  --color-text-light: #8b7c07;  /* White */
+  --color-text-light: #383201;  /* White */
 
   --color-background-dark: #230124;  /* Nuevo fondo para el modo oscuro */
   --color-text-dark: rgb(169, 211, 4);  /* Nuevo color de texto para el modo oscuro */
@@ -22,10 +22,10 @@
   --title3-color-light: #2b2a2a;  /* Color de texto para títulos3 en modo claro */
   --title3-color-dark: #b806a9;  /* Color de texto para títulos3 en modo oscuro */
 
-  --navdiv-bg-light: #aed7f3; /* Fondo del div en modo claro */
+  --navdiv-bg-light: #cef3d9; /* Fondo del div en modo claro */
   --navdiv-bg-dark: #500245; /* Fondo del div en modo oscuro */
 
-  --postdiv-bg-light: #9fdbf3; /* Fondo del postdiv en modo claro */
+  --postdiv-bg-light: #f8e4e5; /* Fondo del postdiv en modo claro */
   --postdiv-bg-dark: #5e035a; /* Fondo del div en modo oscuro */
 
   --logindiv-bg-light: #d0eaf5; /* Fondo del logindiv en modo claro */

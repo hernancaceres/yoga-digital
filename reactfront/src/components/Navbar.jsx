@@ -40,19 +40,19 @@ function Navbar() {
 
         <li>
           <button
-            onClick={() => navigate('/home')}
+            onClick={() => navigate('/metodo')}
             className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
-            Ver Las publicaciones
+            El Método PCD
           </button>
         </li>
-        {/* Mostrar el botón "Crear un Post" solo si el usuario está autenticado */}
+
         <li>
           <button
-            onClick={() => navigate('/home')}
+            onClick={() => navigate('/')}
             className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
-            Crear una Publicación
+            Home
           </button>
         </li>
         <li>
