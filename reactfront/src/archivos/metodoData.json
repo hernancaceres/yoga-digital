@@ -1,0 +1,14 @@
+{
+    "metodo1": {
+        "titulo": "El método PCD",
+        "descripcion": "A continuación se encuentran los 6 pasos del método, recomendamos de 40 a 60 minutos de práctica por sesión, hasta dos sesiones por día. Recuerda que lo más importante en la primera etapa es la memorización de los pasos junto con la práctica de los mismos, no es necesario la perfección en las posturas, esto se logrará a lo largo del tiempo."
+    },
+    "metodo2": {
+        "titulo": "El método PCD",
+        "descripcion": "Paso #1: Micromeditación de 5 minutos. Paso #2: Precalentamiento máximo 5 minutos. Paso #3: Asanas para el equilibrio de los chakras. Paso #4: Automasaje 5 minutos. Paso #5: Relajación máximo 10 minutos. Paso #6: Micromeditación de 5 a 10 minutos."
+    },
+    "metodo3": {
+        "titulo": "Otro método",
+        "descripcion": "Descripción del otro método..."
+    }
+}
