@@ -49,7 +49,7 @@ const Metodo = () => {
         </div>
       ))}
 
-      {/* Mostrar el método2 solo en la primera página */}
+ {/*      Mostrar el método2 solo en la primera página
       {paginaActual === 1 && (
         <div className="metodo2-list">
           <h2>{metodoData.metodo2.titulo}</h2>
@@ -59,7 +59,7 @@ const Metodo = () => {
             ))}
           </ul>
         </div>
-      )}
+      )} */}
 
       {/* Botones de paginación */}
       <div className="pagination">
