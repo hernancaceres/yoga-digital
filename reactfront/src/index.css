@@ -133,3 +133,87 @@ body.dark-mode .input-style {
 body.dark-mode .input-style:focus {
   border-color: var(--input-focus-dark);
 }
+
+/* Estilos sidebar-menu */
+
+.sidebar-menu {
+  width: 300px;
+  padding: 20px;
+  height: 100vh;
+  position: fixed;
+  top: 100;
+  left: 0;
+  
+  box-shadow: 5px 0 10px rgba(0, 0, 0, 0.1); /* Sombra en el lado derecho */
+}
+
+.sidebar-menu h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.sidebar-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-menu li {
+  cursor: pointer;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+/* Ajuste de estilos para el contenido principal */
+
+.main-content {
+  padding: 20px;
+  margin-left: 300px; /* Ancho del menú lateral */
+}
+
+.main-container {
+  display: flex;
+}
+
+.content-container {
+  flex-grow: 1;
+  padding: 20px;
+  margin-left: 300px; /* Ancho del menú lateral */
+  transition: margin-left 0.3s ease; /* Agregamos una transición para suavizar el cambio */
+}
+
+.post-div {
+  margin-bottom: 20px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+  .main-container {
+    flex-direction: column; /* Cambia la dirección del eje principal a columna */
+  }
+
+  .sidebar-menu {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    box-shadow: none; /* Elimina la sombra en pantallas más pequeñas */
+  }
+
+  .main-content {
+    margin-left: 0; /* Elimina el margen izquierdo en pantallas más pequeñas */
+  }
+
+  .content-container {
+    margin-left: 0; /* Asegura que no haya margen izquierdo en pantallas más pequeñas */
+  }
+}
