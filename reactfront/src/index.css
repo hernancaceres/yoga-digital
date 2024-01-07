@@ -78,6 +78,14 @@ body.dark-mode h3 {
   color: var(--title3-color-dark);
 }
 
+h4{
+  color: var(--title4-color-light);
+}
+
+body.dark-mode h4 {
+  color: var(--title4-color-dark);
+}
+
 /* COLORES DE DIVS*/
 
 .nav-div {

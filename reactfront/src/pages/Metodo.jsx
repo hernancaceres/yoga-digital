@@ -73,8 +73,14 @@ const Metodo = () => {
       <div className="content-container">
         {metodosEnPagina.map((metodo, index) => (
           <div key={index} className="post-div my-3 p-4">
-            <h1>{metodo.titulo}</h1>
-            <p>{metodo.descripcion}</p>
+            <h1 >{metodo.titulo}</h1>
+            <p className='my-3'>{metodo.descripcion}</p>
+            <h4 className='my-1'>{metodo.procedimiento1}</h4>
+            <h4 className='my-1'>{metodo.procedimiento2}</h4>
+            <h4 className='my-1'>{metodo.procedimiento3}</h4>
+            <h4 className='my-1'>{metodo.procedimiento4}</h4>
+            <h4 className='my-1'>{metodo.procedimiento5}</h4>
+            <h4 className='my-1'>{metodo.procedimiento6}</h4>
           </div>
         ))}
 

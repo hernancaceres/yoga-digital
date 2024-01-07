@@ -20,7 +20,10 @@
   --title2-color-dark: #f00943;  /* Color de texto para títulos2 en modo oscuro */
 
   --title3-color-light: #2b2a2a;  /* Color de texto para títulos3 en modo claro */
-  --title3-color-dark: #b806a9;  /* Color de texto para títulos3 en modo oscuro */
+  --title3-color-dark: #1bb806;  /* Color de texto para títulos3 en modo oscuro */
+
+  --title4-color-light: #2b2a2a;  /* Color de texto para títulos3 en modo claro */
+  --title4-color-dark: #07f107;  /* Color de texto para títulos3 en modo oscuro */
 
   --navdiv-bg-light: #cef3d9; /* Fondo del div en modo claro */
   --navdiv-bg-dark: #500245; /* Fondo del div en modo oscuro */
