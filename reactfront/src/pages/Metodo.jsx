@@ -41,9 +41,6 @@ const Metodo = () => {
     }
   };
 
-
-
-
   const getButtonColors = () => {
     if (darkMode) {
       console.log('Dark Mode: Applying button-dark');
@@ -73,9 +70,9 @@ const Metodo = () => {
       <div className="content-container">
         {metodosEnPagina.map((metodo, index) => (
           <div key={index} className="post-div my-3 p-4">
-            <h1 >{metodo.titulo}</h1>
+            <h2><i className="fa-solid fa-window-minimize"></i></h2>
             <p className='my-3'>{metodo.descripcion}</p>
-            <h4 className='my-1'>{metodo.procedimiento1}</h4>
+            <h4 className='my-1'> {metodo.procedimiento1}</h4>
             <h4 className='my-1'>{metodo.procedimiento2}</h4>
             <h4 className='my-1'>{metodo.procedimiento3}</h4>
             <h4 className='my-1'>{metodo.procedimiento4}</h4>
@@ -90,7 +87,7 @@ const Metodo = () => {
             disabled={paginaActual === 1}
             className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
-            Anterior
+            <i className="fa-regular fa-less-than"></i> Anterior
           </button>
           <span>Página {paginaActual}</span>
           <button
@@ -98,7 +95,7 @@ const Metodo = () => {
             disabled={paginaActual === Math.ceil(listaMetodos.length / metodosPorPagina)}
             className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
-            Siguiente
+           Siguiente <i className="fa-regular fa-greater-than"></i>
           </button>
         </div>
       </div>

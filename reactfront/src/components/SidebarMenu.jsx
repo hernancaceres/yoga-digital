@@ -16,21 +16,3 @@ const SidebarMenu = ({ metodoData, onMethodClick }) => {
 
 export default SidebarMenu;
 
-
-
-// const SidebarMenu = ({ metodoData, onMethodClick }) => {
-//   return (
-//     <div >
-//       <h2>Pasos del Método</h2>
-//       <ul>
-//         {Object.keys(metodoData).map((metodoKey) => (
-//           <li key={metodoKey} onClick={() => onMethodClick(metodoKey)}>
-//             {metodoData[metodoKey].titulo}
-//           </li>
-//         ))}
-//       </ul>
-//     </div>
-//   );
-// };
-
-// export default SidebarMenu;

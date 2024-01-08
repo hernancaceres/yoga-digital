@@ -1,0 +1,26 @@
+{
+  "asanas": [
+    {
+      "id": 1,
+      "nombre": "Asana 1",
+      "imagenURL": "https://www.yogateca.com/wp-content/uploads/2013/10/Postura-de-la-montana.jpg",
+      "descripcion": "Descripción de la Asana 1",
+      "pasos": [
+        "Paso 1",
+        "Paso 2",
+        "Paso 3"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Asana 2",
+      "imagenURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/Vriksasana_Yoga-Asana_Nina-Mel.jpg",
+      "descripcion": "Descripción de la Asana 2",
+      "pasos": [
+        "Paso 1",
+        "Paso 2",
+        "Paso 3"
+      ]
+    }
+  ]
+}
