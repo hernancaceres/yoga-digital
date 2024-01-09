@@ -39,7 +39,7 @@ const Asanas1 = () => {
           <div key={index} className="post-div my-3 p-4 flex flex-wrap">
 
             <img
-              className="w-full md:w-1/2 object-cover md:pr-4 mb-4 md:h-80 md:w-auto"
+              className="w-full md:w-1/2 object-cover md:pr-4 mb-4 md:h-82 "
               src={asana.imagenURL}
               alt={`Imagen ${asana.nombre}`}
             />
