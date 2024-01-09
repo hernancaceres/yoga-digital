@@ -37,7 +37,9 @@ const Asanas1 = () => {
       <div className="w-full md:w-3/4 p-4">
         {asanasEnPagina.map((asana, index) => (
           <div key={index} className="post-div my-3 p-4 flex flex-wrap">
-            <img className="w-full md:w-1/2 md:pr-4 mb-4" src={asana.imagenURL} alt={`Imagen ${asana.nombre}`} />
+            
+              <img className="h-300 w-full md:w-1/2  mb-4" src={asana.imagenURL} alt={`Imagen ${asana.nombre}`} />
+            
             <div className="w-full md:w-1/2">
               <h2 className="text-xl font-bold mb-2">{asana.nombre}</h2>
               <p className="mb-4">{asana.descripcion}</p>
