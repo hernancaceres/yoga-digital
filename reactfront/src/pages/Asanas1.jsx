@@ -37,18 +37,27 @@ const Asanas1 = () => {
       <div className="w-full md:w-3/4 p-4">
         {asanasEnPagina.map((asana, index) => (
           <div key={index} className="post-div my-3 p-4 flex flex-wrap">
-            
-              <img className="h-300 w-full md:w-1/2  mb-4" src={asana.imagenURL} alt={`Imagen ${asana.nombre}`} />
-            
+
+            <img
+              className="w-full md:w-1/2 object-cover md:pr-4 mb-4 md:h-80 md:w-auto"
+              src={asana.imagenURL}
+              alt={`Imagen ${asana.nombre}`}
+            />
+
+
             <div className="w-full md:w-1/2">
               <h2 className="text-xl font-bold mb-2">{asana.nombre}</h2>
               <p className="mb-4">{asana.descripcion}</p>
-              <h4>Pasos:</h4>
-              <ul>
-                {asana.pasos.map((paso, i) => (
-                  <li key={i} className="ml-4">{paso}</li>
-                ))}
-              </ul>
+              <h2>Pasos:</h2>
+              <h4 className="mb-3">{asana.paso1}</h4>
+              <h4 className="mb-3">{asana.paso2}</h4>
+              <h4 className="mb-3">{asana.paso3}</h4>
+              <h4 className="mb-3">{asana.paso4}</h4>
+              <h4 className="mb-3">{asana.paso5}</h4>
+              <h4 className="mb-3">{asana.paso6}</h4>
+              <h4 className="mb-3">{asana.paso7}</h4>
+              <h4 className="mb-3">{asana.paso8}</h4>
+              <p className="mb-3">{asana.paso9}</p>
             </div>
           </div>
         ))}

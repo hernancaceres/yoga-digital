@@ -2,9 +2,9 @@
   "asanas": [
     {
       "id": 1,
-      "nombre": "Asana 1",
+      "nombre": "Postura del Árbol (Vrksasana)",
       "imagenURL": "https://www.yogateca.com/wp-content/uploads/2013/10/Postura-de-la-montana.jpg",
-      "descripcion": "Descripción de la Asana 1",
+      "descripcion": "La Postura del Árbol es una asana que simboliza la estabilidad, la conexión con la tierra y el crecimiento hacia la altura. Al igual que un árbol fuerte y firme, esta postura te ayuda a encontrar equilibrio y concentración, al tiempo que fortalece tus piernas y mejora la alineación de la columna vertebral.",
       "pasos": [
         "Paso 1",
         "Paso 2",
@@ -13,14 +13,18 @@
     },
     {
       "id": 2,
-      "nombre": "Asana 2",
+      "nombre": "Postura del Árbol (Vrksasana)",
       "imagenURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/Vriksasana_Yoga-Asana_Nina-Mel.jpg",
-      "descripcion": "Descripción de la Asana 2",
-      "pasos": [
-        "Paso 1",
-        "Paso 2",
-        "Paso 3"
-      ]
+      "descripcion": "La Postura del Árbol es una asana que simboliza la estabilidad, la conexión con la tierra y el crecimiento hacia la altura. Al igual que un árbol fuerte y firme, esta postura te ayuda a encontrar equilibrio y concentración, al tiempo que fortalece tus piernas y mejora la alineación de la columna vertebral.",
+      "paso1": "Inicio: Comienza en la posición de pie con los pies juntos y los brazos a los lados.",
+      "paso2": "Equilibrio sobre una pierna: Transfiere tu peso hacia una pierna mientras levantas la otra y doblas la rodilla.Coloca la planta del pie elevado en el muslo interno de la pierna de apoyo. Asegúrate de que la rodilla esté apuntando hacia afuera.",
+      "paso3": "Postura de las manos: Une las palmas de las manos frente al pecho en posición de oración (Anjali Mudra) o eleva los brazos hacia arriba, manteniendo las palmas separadas.",
+      "paso4": "Fijación de la mirada: Encuentra un punto fijo frente a ti para ayudar a mantener el equilibrio. Esto también ayuda a concentrar la mente.",
+      "paso5": "Alineación del cuerpo: Mantén el pie de apoyo bien arraigado en el suelo, distribuyendo el peso uniformemente. Evita presionar el pie contra la rodilla, optando por colocarlo en el muslo o la pantorrilla. Mantén la columna vertebral recta y los hombros relajados.",
+      "paso6": "Estabilidad y Respiración: Encuentra tu centro y respira profundamente. Siente cómo la postura te conecta con la tierra y cómo tu cuerpo se estira hacia el cielo.",
+      "paso7": "Sostén la posición: Permanece en la Postura del Árbol durante 30 segundos a 1 minuto, según tu nivel de comodidad y equilibrio.",
+      "paso8": "Repita en el otro lado: Deshaz la postura lentamente y repite el proceso en la otra pierna para mantener el equilibrio en ambos lados del cuerpo.",
+      "paso9": "Recuerda ajustar la dificultad de la postura según tu nivel de habilidad, y disfruta de los beneficios de la Postura del Árbol en tu práctica de yoga. ¡Que la paz y la estabilidad te acompañen siempre! 🌳🙏"
     }
   ]
 }
