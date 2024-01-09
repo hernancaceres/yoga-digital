@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import NotFoundPage from './pages/NotFoundPage';
 import Navbar from './components/Navbar';
 import Metodo from './pages/Metodo';
-import Asanas1 from './pages/asanas1';
+import Asanas1 from './pages/Asanas1';
 
 function App() {
 
