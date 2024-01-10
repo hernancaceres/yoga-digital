@@ -2,14 +2,20 @@
   "asanas": [
     {
       "id": 1,
-      "nombre": "Postura del Árbol (Vrksasana)",
+      "nombre": "Postura de la Montaña (Tadasana)",
       "imagenURL": "https://www.yogateca.com/wp-content/uploads/2013/10/Postura-de-la-montana.jpg",
-      "descripcion": "La Postura del Árbol es una asana que simboliza la estabilidad, la conexión con la tierra y el crecimiento hacia la altura. Al igual que un árbol fuerte y firme, esta postura te ayuda a encontrar equilibrio y concentración, al tiempo que fortalece tus piernas y mejora la alineación de la columna vertebral.",
-      "pasos": [
-        "Paso 1",
-        "Paso 2",
-        "Paso 3"
-      ]
+      "descripcion": "La Postura de la Montaña, o Tadasana, es una posición fundamental que establece las bases para muchas otras posturas de pie en yoga. Es una asana que simboliza la firmeza, la estabilidad y la conexión con la tierra. Tadasana es más que simplemente estar de pie; es la expresión consciente de la verticalidad y la alineación adecuada del cuerpo.",
+      "paso1": "Inicio: Comienza de pie, con los pies juntos y los brazos a los lados del cuerpo.",
+      "paso2": "Distribución del peso: Asegúrate de que el peso esté equitativamente distribuido entre ambos pies. Siente la conexión con el suelo a través de las cuatro esquinas de cada pie..",
+      "paso3": "Alineación de las piernas y rodillas: Mantén las piernas rectas, pero sin bloquear las rodillas. Activa los músculos de los muslos y levanta las rótulas hacia arriba.",
+      "paso4": "Posicionamiento de la pelvis y columna vertebral: Inclina ligeramente la pelvis hacia adelante para alinear la columna vertebral desde la base hasta la coronilla. Imagina que hay una cuerda tirando hacia arriba desde la parte superior de tu cabeza.",
+      "paso5": "Alineación de los brazos: Deja los brazos a los lados del cuerpo con las palmas mirando hacia adelante. Puedes optar por juntar las palmas en posición de oración (Anjali Mudra) frente al pecho",
+      "paso6": "Elevación del pecho: Abre el pecho elevando ligeramente el esternón hacia arriba. Mantén los hombros relajados y hacia abajo.",
+      "paso7": "Fijación de la mirada: Dirige la mirada hacia un punto en el horizonte, manteniendo la cabeza en posición neutral.",
+      "paso8": "Respiración consciente: Respira profundamente y de manera consciente. Siente la expansión del pecho y la conexión con la tierra a través de tus pies.",
+      "paso9": "Permanencia en la postura: Mantén la Postura de la Montaña durante 30 segundos a 1 minuto, respirando de manera constante y consciente.",
+      "paso10": "Finalización: Para salir de la postura, baja los brazos lentamente y regresa a una posición neutral.",
+      "paso11": "La Postura de la Montaña es excelente para mejorar la postura, fortalecer las piernas y cultivar la sensación de presencia y estabilidad en tu práctica de yoga. ¡Que encuentres tu paz interior en la firmeza de la montaña! 🏔️🙏"
     },
     {
       "id": 2,
@@ -25,6 +31,90 @@
       "paso7": "Sostén la posición: Permanece en la Postura del Árbol durante 30 segundos a 1 minuto, según tu nivel de comodidad y equilibrio.",
       "paso8": "Repita en el otro lado: Deshaz la postura lentamente y repite el proceso en la otra pierna para mantener el equilibrio en ambos lados del cuerpo.",
       "paso9": "Recuerda ajustar la dificultad de la postura según tu nivel de habilidad, y disfruta de los beneficios de la Postura del Árbol en tu práctica de yoga. ¡Que la paz y la estabilidad te acompañen siempre! 🌳🙏"
+    },
+    {
+      "id": 3,
+      "nombre": "Yoga Mudra",
+      "imagenURL": "https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/unity2/blog_image/yoga%20mudra.jpg?itok=Pz7q6tds",
+      "descripcion": "El Yoga Mudra es una postura que combina la meditación con una posición específica de las manos. Este gesto simboliza la conexión de la energía espiritual con la tierra, promoviendo la armonía y la concentración. Es una práctica que busca la unión de la mente, el cuerpo y el espíritu.",
+      "paso1": "Inicio: Siéntate en una posición cómoda para meditar, ya sea en una silla con los pies apoyados en el suelo o en una postura de loto en el suelo.",
+      "paso2": "Postura de las manos: Coloca las manos en tu regazo, con las palmas hacia arriba. Junta las puntas de los dedos pulgares y de los dedos índices formando un círculo.",
+      "paso3": "Descanso sobre las piernas: Descansa las manos unidas en tu regazo, permitiendo que los codos se relajen naturalmente a los lados del cuerpo.",
+      "paso4": "Posición de las otras manos: Deja los otros tres dedos de cada mano extendidos de manera relajada.",
+      "paso5": "Alineación del cuerpo: Mantiene la columna vertebral recta, los hombros relajados y el pecho ligeramente elevado.",
+      "paso6": "Fijación de la mirada: Cierra los ojos suavemente y dirige tu mirada hacia adentro, enfocándote en la respiración y en la sensación de conexión.",
+      "paso7": "Respiración consciente: Inicia una respiración profunda y consciente. Siente cómo la energía fluye a través de tus manos y se conecta con el resto de tu cuerpo.",
+      "paso8": "Meditación en el Yoga Mudra: Permanece en esta posición durante al menos 5-10 minutos, permitiendo que la mente se aquiete y te sumerjas en un estado meditativo.",
+      "paso9": "Finalización: Abre los ojos suavemente, lleva las manos a tu corazón en posición de oración y agradece el momento de conexión.",
+      "paso10": "El Yoga Mudra es una práctica que fomenta la introspección y la paz interior, ofreciendo un espacio para la contemplación y el equilibrio en tu práctica de yoga. ¡Que encuentres serenidad y armonía en esta hermosa mudra! 🧘‍♂️🙏"
+    },
+    {
+      "id": 4,
+      "nombre": "Postura de la Cobra (Bhujangasana)",
+      "imagenURL": "https://www.yogisima.com/app/uploads/2019/05/Bhujangasana_Yogisima-asana-975x550.jpg",
+      "descripcion": "La Postura de la Cobra, o Bhujangasana, es una asana que se asemeja a la expansión y elevación de una cobra con el torso hacia arriba. Esta postura no solo fortalece la espalda y tonifica los músculos, sino que también promueve la apertura del corazón y la flexibilidad de la columna vertebral. Bhujangasana es una excelente manera de despertar y energizar el cuerpo.",
+      "paso1": "Inicio: Acuéstate boca abajo en la esterilla con las piernas estiradas y los dedos de los pies apuntando hacia atrás.",
+      "paso2": "Colocación de las manos: Coloca las palmas de las manos alineadas con los hombros, justo debajo de tus hombros. Los codos deben estar doblados y pegados al cuerpo.",
+      "paso3": "Posicionamiento de los pies: Mantén los pies juntos o separados a la anchura de las caderas, con la parte superior de los pies en contacto con la esterilla.",
+      "paso4": "Alineación de la cabeza y cuello: Mantén la mirada hacia abajo y alinea la cabeza con la columna. Evita forzar el cuello hacia atrás.",
+      "paso5": "Elevación del torso: Inhala profundamente y, con la fuerza de los músculos de la espalda baja, eleva el torso del suelo. Extiende los brazos completamente mientras mantienes las caderas en contacto con el suelo.",
+      "paso6": "Apertura del pecho: Abre el pecho hacia adelante y eleva los hombros hacia atrás y hacia abajo. Siente una suave apertura en el corazón.",
+      "paso7": "Mantenimiento de la postura: Sostén la Postura de la Cobra durante 15-30 segundos, manteniendo la respiración constante.",
+      "paso8": "Descenso: Exhala lentamente y baja el torso hacia el suelo con control. Puedes descansar la frente en la esterilla.",
+      "paso9": "Repetición: Puedes repetir la postura según tu comodidad, incrementando gradualmente el tiempo de permanencia.",
+      "paso10": "La Postura de la Cobra es ideal para fortalecer la espalda, mejorar la postura y estimular los órganos abdominales. Recuerda realizar esta asana con suavidad y respetando los límites de tu cuerpo. ¡Que encuentres fuerza y apertura en tu práctica! 🐍🙏"
+      
+    },
+    {
+      "id": 5,
+      "nombre": "Postura del Perro Boca Abajo (Adho Mukha Svanasana)",
+      "imagenURL": "https://images.hola.com/imagenes/estar-bien/20210204183789/postura-yoga-perro-hacia-abajo-beneficios/0-916-820/perro-mira-abajo-m.jpg?tx=w_680",
+      "descripcion": "La Postura del Perro Boca Abajo, o Adho Mukha Svanasana, es una asana fundamental que forma parte de la transición en las secuencias de yoga y también se utiliza como una posición de descanso entre otras posturas. Esta asana estira y fortalece simultáneamente diversos músculos, ofreciendo una sensación revitalizante y de estiramiento completo al cuerpo.",
+      "paso1": "Inicio: Comienza en una posición de cuatro patas (postura de la mesa) con las manos alineadas debajo de los hombros y las rodillas debajo de las caderas.",
+      "paso2": "Distribución del peso: Presiona las palmas de las manos firmemente en el suelo y extiende los dedos. Distribuye el peso uniformemente entre las manos y los dedos.",
+      "paso3": "Elevación de las caderas: Levanta las caderas hacia el techo, llevando el cuerpo hacia atrás. Las piernas y los brazos deben estar completamente extendidos.",
+      "paso4": "Formación de la V invertida: Forma una V invertida con el cuerpo, manteniendo las piernas y los brazos rectos. Las manos deben estar alineadas con los hombros, y los pies con las caderas.",
+      "paso5": "Alineación de las piernas y pies: Intenta mantener los talones en el suelo. Si es necesario, puedes doblar las rodillas ligeramente. La prioridad es extender la columna vertebral.",
+      "paso6": "Posicionamiento de la cabeza: Deja que la cabeza cuelgue libremente entre los brazos, manteniendo el cuello relajado. La mirada puede estar dirigida hacia los pies.",
+      "paso7": "Estiramiento de la columna vertebral: Enfócate en estirar la columna vertebral, alargando desde la base de la columna hasta la coronilla.",
+      "paso8": "Respiración consciente: Respira profundamente y de manera consciente en la posición. Siente cómo la respiración fluye a lo largo de la columna vertebral y estira los músculos.",
+      "paso9": "Permanencia en la postura: Sostén la Postura del Perro Boca Abajo durante 30 segundos a 1 minuto, respirando de manera constante.",
+      "paso10": "Descenso: Para salir de la postura, baja las rodillas al suelo y regresa a la posición de cuatro patas.",
+      "paso11": "Adho Mukha Svanasana es una postura que combina fuerza y estiramiento, beneficiando tanto al cuerpo como a la mente. ¡Que encuentres renovación y equilibrio en esta poderosa asana! 🐶🙏"
+    },
+    {
+      "id": 6,
+      "nombre": "Postura de la Vela (Sarvangasana)",
+      "imagenURL": "https://www.yogateca.com/wp-content/uploads/2013/11/sarvangasana-postura-vela.jpg",
+      "descripcion": "La Postura de la Vela, o Sarvangasana, es una asana avanzada que implica levantar las piernas y el torso hacia arriba, sosteniéndose sobre los hombros. Esta postura es conocida como la Reina de las Asanas debido a sus numerosos beneficios para la salud, incluyendo el fortalecimiento de la espalda, el estiramiento de los músculos del cuello y la mejora de la circulación sanguínea. Sarvangasana también se considera una postura terapéutica.",
+      "paso1": "Inicio: Acuéstate boca arriba en la esterilla con los brazos a los lados del cuerpo, las piernas juntas y los pies extendidos.",
+      "paso2": "Elevación de las piernas: Contrae los músculos abdominales y eleva las piernas hacia el techo, utilizando la fuerza del abdomen y los flexores de la cadera.",
+      "paso3": "Soporte con las manos: Coloca las manos en la parte baja de la espalda para ofrecer soporte. Las manos deben estar apuntando hacia arriba y los codos cerca del cuerpo.",
+      "paso4": "Elevación de las caderas: Continúa elevando las piernas y las caderas hasta que el peso del cuerpo esté sostenido sobre los hombros. Las piernas deben estar en línea recta sobre el cuerpo.",
+      "paso5": "Alineación de la columna: Asegúrate de que la columna vertebral esté alineada y que no haya presión en el cuello. El peso debe descansar en los hombros, no en el cuello.",
+      "paso6": "Formación de una línea recta: Intenta formar una línea recta desde los hombros hasta los pies. Mantén las piernas estiradas y los dedos de los pies apuntando hacia el techo.",
+      "paso7": "Respiración controlada: Respira profundamente y de manera constante. Mantén la atención en la respiración para ayudar a mantener el equilibrio y la concentración.",
+      "paso8": "Permanencia en la postura: Sostén la Postura de la Vela durante 30 segundos a 2 minutos, según tu nivel de práctica.",
+      "paso9": "Descenso: Para salir de la postura, baja lentamente las piernas hacia el suelo, vertebra por vertebra, y regresa a la posición inicial.",
+      "paso10": "Sarvangasana requiere fuerza abdominal y flexibilidad, por lo que es esencial avanzar gradualmente en la práctica y escuchar las señales del cuerpo. Esta asana aporta beneficios profundos para la salud y la vitalidad. ¡Que encuentres luz y energía en la Postura de la Vela! 🕯️🙏"
+   
+    },
+    {
+      "id": 7,
+      "nombre": "Postura del Cadáver (Savasana)",
+      "imagenURL": "https://www.arhantayoga.org/es/wp-content/uploads/2023/06/Shavasana-1-scaled-e1649681126124.jpg",
+      "descripcion": "La Postura del Cadáver, o Savasana, es una asana de relajación profunda que se realiza al final de una sesión de yoga. Aunque puede parecer simple, es una posición vital para la integración de los beneficios de la práctica y para alcanzar un estado de calma y serenidad. Savasana es un momento de descanso consciente, permitiendo que el cuerpo y la mente se relajen completamente.",
+      "paso1": "Preparación: Acuéstate boca arriba en la esterilla, con las piernas extendidas y los pies relajados hacia los lados. Los brazos deben estar a los lados del cuerpo, las palmas hacia arriba.",
+      "paso2": "Alineación del cuerpo: Asegúrate de que el cuerpo esté alineado de manera natural. Deja que los hombros se relajen hacia el suelo y que los omóplatos estén ligeramente hacia abajo.",
+      "paso3": "Separación de las piernas: Separa las piernas a la anchura de las caderas, permitiendo que los dedos de los pies se relajen naturalmente hacia los lados.",
+      "paso4": "Posicionamiento de las manos: Coloca las manos a una corta distancia de los muslos, con las palmas hacia arriba. Deja los dedos ligeramente curvados.",
+      "paso5": "Cierre de los ojos: Cierra los ojos suavemente. Permite que la mirada interna se dirija hacia dentro, desvinculándote visualmente del entorno exterior.",
+      "paso6": "Relajación facial: Relaja todos los músculos faciales, incluyendo la mandíbula. Deja que la lengua descanse suavemente en el paladar.",
+      "paso7": "Respiración natural: Permite que la respiración sea natural y sin esfuerzo. Observa la suave entrada y salida del aliento.",
+      "paso8": "Conciencia plena: Lleva la atención a diferentes partes del cuerpo, empezando por los pies y avanzando gradualmente hacia la cabeza, asegurándote de liberar cualquier tensión.",
+      "paso9": "Mente en calma: Permanece en Savasana durante al menos 5-10 minutos, permitiendo que la mente se aquiete y que el cuerpo se relaje completamente.",
+      "paso10": "Despertar suave: Para salir de la postura, comienza a mover lentamente los dedos de las manos y los pies. Luego, gira suavemente hacia un lado y utiliza las manos para ayudarte a incorporarte lentamente.",
+      "paso11": "Savasana es esencial para integrar los beneficios de la práctica de yoga y proporcionar un espacio para la relajación profunda. ¡Que encuentres paz y renovación en la Postura del Cadáver! 💀🙏"
     }
   ]
 }
