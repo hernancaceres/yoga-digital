@@ -58,6 +58,15 @@ function Navbar() {
 
         <li>
           <button
+            onClick={() => navigate('/recomendaciones')}
+            className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
+          >
+            Recomendaciones
+          </button>
+        </li>
+
+        <li>
+          <button
             onClick={() => navigate('/')}
             className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >

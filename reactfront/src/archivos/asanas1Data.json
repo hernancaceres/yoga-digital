@@ -63,7 +63,6 @@
       "paso8": "Descenso: Exhala lentamente y baja el torso hacia el suelo con control. Puedes descansar la frente en la esterilla.",
       "paso9": "Repetición: Puedes repetir la postura según tu comodidad, incrementando gradualmente el tiempo de permanencia.",
       "paso10": "La Postura de la Cobra es ideal para fortalecer la espalda, mejorar la postura y estimular los órganos abdominales. Recuerda realizar esta asana con suavidad y respetando los límites de tu cuerpo. ¡Que encuentres fuerza y apertura en tu práctica! 🐍🙏"
-      
     },
     {
       "id": 5,
@@ -84,6 +83,20 @@
     },
     {
       "id": 6,
+      "nombre": "Postura de la Media Vela (Setu Bandha Sarvangasana)",
+      "imagenURL": "https://static3.mujerhoy.com/www/multimedia/202207/04/media/cortadas/Sarvangasana-k4G--984x468@MujerHoy.jpeg",
+      "descripcion": "La Postura de la Media Vela , o Setu Bandha Sarvangasana, es una variante de la postura de la vela (Sarvangasana), ten en cuenta que los nombres de las posturas pueden variar y evolucionar en diferentes tradiciones de yoga. Para realizar una versión más suave o modificada de la Vela, podrías intentar lo siguiente .",
+      "paso1": "Acuéstate boca arriba en tu esterilla de yoga.",
+      "paso2": "Dobla las rodillas y coloca los pies en el suelo, manteniendo las piernas a la anchura de las caderas.",
+      "paso3": "Coloca los brazos a los lados del cuerpo con las palmas hacia abajo.",
+      "paso4": "Presiona las manos y los antebrazos en el suelo mientras levantas la parte inferior del cuerpo, las caderas y las piernas hacia arriba, manteniendo los pies en el suelo.",
+      "paso5": "Eleva las caderas y la parte inferior de la espalda tanto como sea cómodo para ti.",
+      "paso6":"Recuerda ajustar la intensidad de la postura según tu nivel de comodidad y condición física. Siempre es recomendable buscar la guía de un instructor de yoga o profesional de la salud para adaptar las posturas según tus necesidades individuales.",
+      "paso7": "Mantén la postura durante unos segundos, respira profundamente y luego baja lentamente las caderas de nuevo al suelo.",
+      "paso8": "Sarvangasana requiere fuerza abdominal y flexibilidad, por lo que es esencial avanzar gradualmente en la práctica y escuchar las señales del cuerpo. Esta asana aporta beneficios profundos para la salud y la vitalidad. ¡Que encuentres luz y energía en la Postura de la Vela! 🕯️🙏."
+    },
+    {
+      "id": 7,
       "nombre": "Postura de la Vela (Sarvangasana)",
       "imagenURL": "https://www.yogateca.com/wp-content/uploads/2013/11/sarvangasana-postura-vela.jpg",
       "descripcion": "La Postura de la Vela, o Sarvangasana, es una asana avanzada que implica levantar las piernas y el torso hacia arriba, sosteniéndose sobre los hombros. Esta postura es conocida como la Reina de las Asanas debido a sus numerosos beneficios para la salud, incluyendo el fortalecimiento de la espalda, el estiramiento de los músculos del cuello y la mejora de la circulación sanguínea. Sarvangasana también se considera una postura terapéutica.",
@@ -97,10 +110,9 @@
       "paso8": "Permanencia en la postura: Sostén la Postura de la Vela durante 30 segundos a 2 minutos, según tu nivel de práctica.",
       "paso9": "Descenso: Para salir de la postura, baja lentamente las piernas hacia el suelo, vertebra por vertebra, y regresa a la posición inicial.",
       "paso10": "Sarvangasana requiere fuerza abdominal y flexibilidad, por lo que es esencial avanzar gradualmente en la práctica y escuchar las señales del cuerpo. Esta asana aporta beneficios profundos para la salud y la vitalidad. ¡Que encuentres luz y energía en la Postura de la Vela! 🕯️🙏"
-   
     },
     {
-      "id": 7,
+      "id": 8,
       "nombre": "Postura del Cadáver (Savasana)",
       "imagenURL": "https://www.arhantayoga.org/es/wp-content/uploads/2023/06/Shavasana-1-scaled-e1649681126124.jpg",
       "descripcion": "La Postura del Cadáver, o Savasana, es una asana de relajación profunda que se realiza al final de una sesión de yoga. Aunque puede parecer simple, es una posición vital para la integración de los beneficios de la práctica y para alcanzar un estado de calma y serenidad. Savasana es un momento de descanso consciente, permitiendo que el cuerpo y la mente se relajen completamente.",
