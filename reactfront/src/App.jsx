@@ -5,6 +5,7 @@ import NotFoundPage from './pages/NotFoundPage';
 import Navbar from './components/Navbar';
 import Metodo from './pages/Metodo';
 import Asanas1 from './pages/Asanas1';
+import Asanas2 from './pages/Asanas2';
 import Recomendaciones from './pages/Recomendaciones';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/metodo" element={<Metodo />} />
         <Route path="/asanas1" element={<Asanas1 />} />
+        <Route path="/asanas2" element={<Asanas2 />} />
         <Route path="/recomendaciones" element={<Recomendaciones />} />
         <Route path="/" element={<Home />} />
 

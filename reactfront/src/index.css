@@ -225,3 +225,8 @@ body.dark-mode .input-style:focus {
     margin-left: 0; /* Asegura que no haya margen izquierdo en pantallas más pequeñas */
   }
 }
+
+
+.custom-height-lg {
+  height: 200px; /* Puedes ajustar la altura de las imagenes según tus necesidades */
+}
