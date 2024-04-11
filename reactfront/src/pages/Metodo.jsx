@@ -71,6 +71,7 @@ const Metodo = () => {
         {metodosEnPagina.map((metodo, index) => (
           <div key={index} className="post-div my-3 p-4">
             <h2><i className="fa-solid fa-window-minimize"></i></h2>
+            <h2 className='my-1'> {metodo.titulo}</h2>
             <p className='my-3'>{metodo.descripcion}</p>
             <h4 className='my-1'> {metodo.procedimiento1}</h4>
             <h4 className='my-1'>{metodo.procedimiento2}</h4>

@@ -43,7 +43,7 @@ function Navbar() {
             onClick={() => navigate('/metodo')}
             className={`px-2 md:px-4 py-2 rounded-lg ${buttonColors.backgroundColorClass}`}
           >
-            El Método PCD
+            El Método EI
           </button>
         </li>
 

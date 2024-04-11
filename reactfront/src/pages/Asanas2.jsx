@@ -57,7 +57,11 @@ const Asanas2 = () => {
               <h4 className="mb-3">{asana.paso6}</h4>
               <h4 className="mb-3">{asana.paso7}</h4>
               <h4 className="mb-3">{asana.paso8}</h4>
-              <p className="mb-3">{asana.paso9}</p>
+              <h4 className="mb-3">{asana.paso9}</h4>
+              <h4 className="mb-3">{asana.paso10}</h4>
+              <h4 className="mb-3">{asana.paso11}</h4>
+              <h4 className="mb-3">{asana.paso12}</h4>
+              <h4 className="mb-3">{asana.paso13}</h4>
             </div>
           </div>
         ))}
